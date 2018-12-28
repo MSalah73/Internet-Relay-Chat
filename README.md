@@ -9,8 +9,8 @@ This is my attempt to create a simple version of IRC. I implemented this with th
 # Installation
 
 * Download Python 2.7
-* run command "python server.py" - the server will give the hostname and the port.
-* run command "python client.py Username Hostname(or ip address) Port Realname"
+* Run command "python server.py" - the server will give the hostname and the port.
+* Run command "python client.py Username Hostname(or ip address) Port Realname"
 * To see a list of commands type /help
 
 # License

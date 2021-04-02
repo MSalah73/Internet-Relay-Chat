@@ -1,5 +1,5 @@
 # Internet-Relay-Chat
-This is my attempt to create a simple version of IRC. I implemented this with the HTTP protocol with the help of the socket library.
+This is my attempt to create a simple version of IRC. The IRC is implmeneted on top of TCP/IP protocal via the socket library.
 ## By Mohammed (Zack) Salah
 ## Technologies
 
